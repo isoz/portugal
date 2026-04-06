@@ -6,12 +6,12 @@ ESTRUTURA = [
         "thumb": "https://imgur.com"
     },
     {
-        "nome": "📂 FILMES - BALAS E BOLINHOS",
+        "nome": "📂 FILMES ",
         "url": "https://githubusercontent.com",
-        "thumb": "http://blogspot.com"
+        "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSItZv_jHaRteaRUg6YgDs11Qy3q8Ku5Ryw9Q&s"
     },
     {
-        "nome": "📂 DESPORTO",
+        "nome": "📂 OUTROS",
         "url": "https://pastebin.com",
         "thumb": "https://wikimedia.org"
     }
