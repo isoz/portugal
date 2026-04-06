@@ -8,11 +8,11 @@ ESTRUTURA = [
     {
         "nome": "📂 DESPORTO",
         "url": "https://raw.githubusercontent.com/virgiliopt/portugal/refs/heads/main/Cinema_PT",
-        "thumb": "http://blogspot.com"
+        "thumb": ""
     },
     {
         "nome": "📂 FILMES E SERIES",
         "url": "https://pastebin.com/raw/MEpthsw7",
-        "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQbeuEjJ-cob0NBg-h9m7ELmrZnw-mfDImdw&s"
+        "thumb": ""
     }
 ]
