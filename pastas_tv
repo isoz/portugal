@@ -2,8 +2,8 @@
 ESTRUTURA = [
     {
         "nome": "📂 CANAIS PORTUGAL",
-        "url": "https://githubusercontent.com",
-        "thumb": "https://imgur.com"
+        "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/pt.m3u",
+        "thumb": "https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fa868f93288b3c8fa7dd48be5daa8923373b7d61296910427b5e62f52b22056cb.jpg"
     },
     {
         "nome": "📂 FILMES ",
