@@ -1,0 +1,15 @@
+# Ficheiro: portugal_Tv
+ESTRUTURA = [
+    {
+        "nome": "📂 CANAIS PORTUGAL",
+        "url": "https://githubusercontent.com"
+    },
+    {
+        "nome": "📂 DESPORTO",
+        "url": "https://pastebin.com"
+    },
+    {
+        "nome": "📂 FILMES E SERIES",
+        "url": "https://pastebin.com"
+    }
+]
