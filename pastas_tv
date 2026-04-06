@@ -2,7 +2,7 @@
 ESTRUTURA = [
     {
         "nome": "📂 CANAIS PORTUGAL",
-        "url": "https://githubusercontent.com"
+        "url": "https://raw.githubusercontent.com/virgiliopt/portugal/refs/heads/main/portugal_Tv"
     },
     {
         "nome": "📂 DESPORTO",
@@ -10,6 +10,6 @@ ESTRUTURA = [
     },
     {
         "nome": "📂 FILMES E SERIES",
-        "url": "https://pastebin.com"
+        "url": "https://pastebin.com/raw/MEpthsw7"
     }
 ]
