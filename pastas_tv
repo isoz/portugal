@@ -2,17 +2,17 @@
 ESTRUTURA = [
     {
         "nome": "📂 CANAIS PORTUGAL",
-        "url": "https://raw.githubusercontent.com/virgiliopt/portugal/refs/heads/main/portugal_Tv"
+        "url": "https://raw.githubusercontent.com/virgiliopt/portugal/refs/heads/main/portugal_Tv",
         "thumb": "https://cdn.aptoide.com/imgs/9/1/d/91df98a9ef9df7f4377e24e7b9b9e20a_icon.png"
     },
     {
         "nome": "📂 DESPORTO",
-        "url": "https://raw.githubusercontent.com/virgiliopt/portugal/refs/heads/main/Cinema_PT"
+        "url": "https://raw.githubusercontent.com/virgiliopt/portugal/refs/heads/main/Cinema_PT",
         "thumb": "http://blogspot.com"
     },
     {
         "nome": "📂 FILMES E SERIES",
-        "url": "https://pastebin.com/raw/MEpthsw7"
+        "url": "https://pastebin.com/raw/MEpthsw7",
         "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQbeuEjJ-cob0NBg-h9m7ELmrZnw-mfDImdw&s"
     }
 ]
