@@ -12,8 +12,8 @@ ESTRUTURA = [
     },
     {
         "nome": "📂 disney",
-        "url": "https://raw.githubusercontent.com/kizomba56/kizomba/main/%7B%7B%7B%20Musica_youtube%20%7D%7D%7D",
-        "thumb": "https://wikimedia.org"
+        "url": "https://raw.githubusercontent.com/virgiliopt/portugal/refs/heads/main/Disney",
+        "thumb": "https://sm.ign.com/ign_pt/cover/d/disney-plu/disney-plus_6ah3.jpg"
     },
     {
         "nome": "📂 cinema_pt",
