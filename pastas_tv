@@ -3,7 +3,7 @@ import requests
 ESTRUTURA = [
     {
         "nome": "📂 CANAIS PORTUGAL",
-        "url": "http://titv.club"
+        "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/pt.m3u"
     },
     {
         "nome": "📂 FILMES ",
