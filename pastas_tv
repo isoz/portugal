@@ -19,4 +19,5 @@ ESTRUTURA = [
         "nome": "📂 cinema_pt",
         "url": "https://raw.githubusercontent.com/virgiliopt/portugal/refs/heads/main/Cinema_PT",
         "thumb": "https://wikimedia.org"
+    }
 ]
