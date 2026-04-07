@@ -1,13 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTYxZDIwODMtYjUzYi00Yjg1LTlhOWQtNjRkYWQ4YTMxZDIxXkEyXkFqcGc@._V1_.jpg",Balas e Bolinhos 1
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTYxZDIwODMtYjUzYi00Yjg1LTlhOWQtNjRkYWQ4YTMxZDIxXkEyXkFqcGc@._V1_.jpg",Balas e Bolinhos 1 (2001)
 https://cld.pt/dl/download/3ed70691-7eab-4fc0-a611-97e7bd8bb465/Balas%20e%20Bolinhos.avi
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjI0YzE4MmYtMGMwMy00ZTc2LTg2ZWItZTcxMWUzMzdiZThkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Balas e Bolinhos 2
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjI0YzE4MmYtMGMwMy00ZTc2LTg2ZWItZTcxMWUzMzdiZThkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Balas e Bolinhos 2: O Regresso (2004)
 https://cld.pt/dl/download/ba45943f-aead-46a6-b137-f6c3a8473395/Balas%20e%20Bolinhos%202%20-%20O%20Regresso.avi
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTYxZDIwODMtYjUzYi00Yjg1LTlhOWQtNjRkYWQ4YTMxZDIxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Balas e Bolinhos 3
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTYxZDIwODMtYjUzYi00Yjg1LTlhOWQtNjRkYWQ4YTMxZDIxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Balas e Bolinhos 3: O Último Capítulo (2012)
 https://cld.pt/dl/download/2e284f26-48e6-469a-8358-d7828f60c19c/Balas%20e%20Bolinhos%203%20Ultimo%20Capitulo%202012%20720P%20HD%20-%2010Youtube.com.mp4
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjI0YzE4MmYtMGMwMy00ZTc2LTg2ZWItZTcxMWUzMzdiZThkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Balas e Bolinhos 4: Só Mais Uma Coisa (2024)
+#ADICIONE_O_LINK_AQUI
 
 #EXTINF:-1 tvg-logo="http://imagens.publico.pt/imagens.aspx/458591?tp=KM",Bairro
 https://cld.pt/dl/download/bc4cefa1-46fd-4c9a-b451-7f7a71ca4b13/Bairro%20%5B2013%5D.avi
