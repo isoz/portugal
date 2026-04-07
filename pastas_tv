@@ -14,5 +14,9 @@ ESTRUTURA = [
         "nome": "📂 OUTROS",
         "url": "https://raw.githubusercontent.com/kizomba56/kizomba/main/%7B%7B%7B%20Musica_youtube%20%7D%7D%7D",
         "thumb": "https://wikimedia.org"
-    }
+    },
+    {
+        "nome": "📂 cinema",
+        "url": "https://raw.githubusercontent.com/kizomba56/kizomba/main/%7B%7B%7B%20Musica_youtube%20%7D%7D%7D",
+        "thumb": "https://wikimedia.org"
 ]
