@@ -1,57 +1,18 @@
-
-
+# Ficheiro: portugal_Tv no GitHub
 ESTRUTURA = [
     {
         "nome": "📂 CANAIS PORTUGAL",
-        "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/pt.m3u"
+        "url": "http://ns1.titv.club:8080/get.php?username=VIP019261754045144529&password=fc94a57630c5&type=m3u",
+        "thumb": "https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fa868f93288b3c8fa7dd48be5daa8923373b7d61296910427b5e62f52b22056cb.jpg"
     },
     {
         "nome": "📂 FILMES ",
-        "url": "https://pastebin.com"
+        "url": "https://pastebin.com/raw/MEpthsw7",
+        "thumb": "https://i0.wp.com/cloud.estacaonerd.com/wp-content/uploads/2018/08/06120631/2017-11-28-x-musicas-de-filmes-que-marcaram-epoca-863x506.png?fit=863%2C506&ssl=1"
     },
     {
         "nome": "📂 OUTROS",
-        "url": "https://githubusercontent.com"
+        "url": "https://raw.githubusercontent.com/kizomba56/kizomba/main/%7B%7B%7B%20Musica_youtube%20%7D%7D%7D",
+        "thumb": "https://wikimedia.org"
     }
 ]
-
-def mesclar_listas(lista, nome_saida="lista_completa.m3u"):
-    conteudo_final = ["#EXTM3U\n"] # Inicia com o cabeçalho padrão
-    
-    print(f"--- A iniciar a união das listas ---")
-    
-    for item in lista:
-        nome = item["nome"].strip()
-        url = item["url"]
-        
-        try:
-            print(f"A processar: {nome}...")
-            resposta = requests.get(url, timeout=15)
-            
-            if resposta.status_code == 200:
-                linhas = resposta.text.splitlines()
-                
-                # Adiciona um comentário para separar as categorias no ficheiro
-                conteudo_final.append(f"\n# --- CATEGORIA: {nome} ---\n")
-                
-                for linha in linhas:
-                    # Ignora cabeçalhos repetidos das listas individuais
-                    if linha.strip() == "#EXTM3U" or not linha.strip():
-                        continue
-                    conteudo_final.append(linha + "\n")
-                
-                print(f"✅ {nome} adicionado.")
-            else:
-                print(f"⚠️ Erro no link {nome} (Status: {resposta.status_code})")
-                
-        except Exception as e:
-            print(f"❌ Falha ao descarregar {nome}: {e}")
-
-    # Grava tudo no ficheiro final
-    with open(nome_saida, "w", encoding="utf-8") as f:
-        f.writelines(conteudo_final)
-    
-    print(f"\n✨ Concluído! O ficheiro '{nome_saida}' foi criado com sucesso.")
-
-if __name__ == "__main__":
-    mesclar_listas(ESTRUTURA)
