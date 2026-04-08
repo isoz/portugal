@@ -12,7 +12,7 @@ ESTRUTURA = [
     },
     {
         "nome": "📂 cinema_pt",
-        "url": "http://s7orm.com:80/get.php?username=VahWbb4zUU&password=CwGLjuyE1k&type=m3u",
+        "url": "https://raw.githubusercontent.com/virgiliopt/portugal/refs/heads/main/Cinema_PT",
         "thumb": "https://iptvportugal.com.pt/wp-content/uploads/2025/06/20250615_2005_Portugal-IPTV-Logo_remix_01jxtfp7ndfyxack45mbsh8dfc.png"
     }
 ]
