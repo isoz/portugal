@@ -20,4 +20,10 @@ ESTRUTURA = [
         "url": "https://pastebin.com/raw/y8u95Rz7",
         "thumb": "https://img.freepik.com/premium-photo/vibrant-music-festival-logo-with-neon-colors-musical-icons-dark-background_606187-25826.jpg"
     }
+     },
+    {
+        "nome": "📂 WebRadioTuga",
+        "url": "https://raw.githubusercontent.com/paulo-dos-santos/WebTvTuga/refs/heads/main/radio/lista.js",
+        "thumb": "https://img.freepik.com/premium-photo/vibrant-music-festival-logo-with-neon-colors-musical-icons-dark-background_606187-25826.jpg"
+    }
 ]
