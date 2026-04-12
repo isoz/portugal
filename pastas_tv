@@ -5,6 +5,7 @@ ESTRUTURA = [
         "nome": "📂 CANAIS PORTUGAL",
         "url": "https://githubusercontent.com",
         "thumb": "https://imgur.com"
+        "epg": "https://m3upt.com"
     },
     {
         "nome": "📂 FILMES - BALAS E BOLINHOS",
