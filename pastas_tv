@@ -8,7 +8,7 @@ ESTRUTURA = [
     {
         "nome": "📂 IPTV_pt",
         "url": "http://163.172.72.97:80/playlist/joaobrabosa/01032026/m3u",
-        "thumb": ""
+        "thumb": "https://svenskiptv.com/wp-content/uploads/2024/10/XUI-IPTV-Player-Logo-Svensk-IPTV.png"
     },
     {
         "nome": "📂 Stream_TV",
