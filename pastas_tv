@@ -2,7 +2,7 @@
 ESTRUTURA = [
     {
         "nome": "📂 CANAIS PORTUGAL",
-        "url": "http://tv.diablotv.net:8080/get.php?username=FabiK4Mi13&password=008824e1943d&type=m3u",
+        "url": "http://",
         "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/93/74/20/93742049-8315-bae5-a65a-90fdd138ab4c/source/256x256bb.jpg"
     },
     {
@@ -22,7 +22,7 @@ ESTRUTURA = [
     },
     {
         "nome": "📂 Adultos",
-        "url": "http://mgdata.online:2052/get.php?username=c0:23:8d:09:bc:daa&password=fTkGZn6&type=m3u_plus&output=ts",
+        "url": "http://",
         "thumb": "https://i.pinimg.com/originals/42/0b/29/420b2941925c26fd0bf29c64d85c9a73.jpg"
     },
 	
