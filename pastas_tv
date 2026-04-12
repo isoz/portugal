@@ -3,17 +3,17 @@ ESTRUTURA = [
     {
         "nome": "📂 CANAIS PORTUGAL",
         "url": "",
-        "thumb": ""
+        "thumb": "https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fa868f93288b3c8fa7dd48be5daa8923373b7d61296910427b5e62f52b22056cb.jpg"
     },
     {
         "nome": "📂 IPTV_pt",
         "url": "http://163.172.72.97:80/playlist/joaobrabosa/01032026/m3u",
-        "thumb": ""
+        "thumb": "https://svenskiptv.com/wp-content/uploads/2024/10/XUI-IPTV-Player-Logo-Svensk-IPTV.png"
     },
     {
         "nome": "📂 Stream_TV",
         "url": "",
-        "thumb": ""
+        "thumb": "https://i0.wp.com/cloud.estacaonerd.com/wp-content/uploads/2018/08/06120631/2017-11-28-x-musicas-de-filmes-que-marcaram-epoca-863x506.png?fit=863%2C506&ssl=1""
     },
 	{
         "nome": "📂 Consertos_Musica",
