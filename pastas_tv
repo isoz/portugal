@@ -13,7 +13,7 @@ ESTRUTURA = [
     {
         "nome": "📂 IPTV_pt",
         "url": "http://163.172.72.97:80/playlist/joaobrabosa/01032026/m3u",
-        "thumb": "https://iptvportugal.com.pt/wp-content/uploads/2025/06/20250615_2005_Portugal-IPTV-Logo_remix_01jxtfp7ndfyxack45mbsh8dfc.png"
+        "thumb": "https://www.dreamportugal.pt/image/cache/catalog/Logos/tvip-logo-600x315h.jpg"
     },
    {
         "nome": "📂 Consertos_Musica",
