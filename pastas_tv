@@ -4,7 +4,7 @@ ESTRUTURA = [
         "nome": "📂 CANAIS PORTUGAL",
         "url": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
         "thumb": "https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fa868f93288b3c8fa7dd48be5daa8923373b7d61296910427b5e62f52b22056cb.jpg",
-        "epg": "https://m3upt.com"
+        "epg": "https://m3upt.com/epg"
     },
     {
         "nome": "📂 Stream_TV",
@@ -23,7 +23,7 @@ ESTRUTURA = [
     },
     {
         "nome": "📂 WebRadioTuga",
-        "url": "https://githubusercontent.com",
+        "url": "https://0.0.0.0",
         "thumb": "https://img.freepik.com/premium-photo/vibrant-music-festival-logo-with-neon-colors-musical-icons-dark-background_606187-25826.jpg"
     }
 ];
