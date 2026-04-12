@@ -15,7 +15,7 @@ ESTRUTURA = [
         "url": "http://163.172.72.97:80/playlist/joaobrabosa/01032026/m3u",
         "thumb": "https://iptvportugal.com.pt/wp-content/uploads/2025/06/20250615_2005_Portugal-IPTV-Logo_remix_01jxtfp7ndfyxack45mbsh8dfc.png"
     },
- {
+   {
         "nome": "📂 Consertos_Musica",
         "url": "https://pastebin.com/raw/y8u95Rz7",
         "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgQQD7aJlIsLr_3IS3rg86jUukJEEq-MNtM-cJTFNpWw&s"
