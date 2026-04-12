@@ -22,7 +22,7 @@ ESTRUTURA = [
     },
     {
         "nome": "📂 Adultos",
-        "url": "https://raw.githubusercontent.com/virgiliopt/portugal/refs/heads/main/Adultos%20%2B18",
+        "url": "http://mgdata.online:2052/get.php?username=c0:23:8d:09:bc:daa&password=fTkGZn6&type=m3u_plus",
         "thumb": "https://i.pinimg.com/originals/42/0b/29/420b2941925c26fd0bf29c64d85c9a73.jpg"
     },
 	
