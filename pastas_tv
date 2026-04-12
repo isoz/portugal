@@ -1,5 +1,5 @@
 // Ficheiro: portugal_Tv no GitHub
-ESTRUTURA = [
+var ESTRUTURA = [
     {
         "nome": "📂 CANAIS PORTUGAL",
         "url": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
@@ -25,4 +25,4 @@ ESTRUTURA = [
         "url": "https://0.0.0.0",
         "thumb": "https://img.freepik.com/premium-photo/vibrant-music-festival-logo-with-neon-colors-musical-icons-dark-background_606187-25826.jpg"
     }
-]
+];
