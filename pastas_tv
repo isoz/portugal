@@ -2,7 +2,7 @@
 ESTRUTURA = [
     {
         "nome": "📂 CANAIS PORTUGAL",
-        "url": "https://pastebin.com/raw/MEpthsw7",
+        "url": "https://pastebin.com/raw/fUPY27we",
         "thumb": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/93/74/20/93742049-8315-bae5-a65a-90fdd138ab4c/source/256x256bb.jpg"
     },
     {
@@ -22,7 +22,7 @@ ESTRUTURA = [
     },
     {
         "nome": "📂 Adultos",
-        "url": "https://pastebin.com/raw/fUPY27we",
+        "url": "https://pastebin.com",
         "thumb": "https://i.pinimg.com/originals/42/0b/29/420b2941925c26fd0bf29c64d85c9a73.jpg"
     },
 	
