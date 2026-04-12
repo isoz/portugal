@@ -19,6 +19,11 @@ ESTRUTURA = [
         "nome": "📂 Consertos_Musica",
         "url": "https://pastebin.com/raw/y8u95Rz7",
         "thumb": "https://img.freepik.com/premium-photo/vibrant-music-festival-logo-with-neon-colors-musical-icons-dark-background_606187-25826.jpg"
-    }
+    },
+    {
+        "nome": "📂 Adultos",
+        "url": "https://",
+        "thumb": "https://i.pinimg.com/originals/42/0b/29/420b2941925c26fd0bf29c64d85c9a73.jpg"
+    },
 	
 ]
