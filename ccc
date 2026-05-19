@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1" tvg-logo="https://docdog.top/logo/countries/portugal/rtp1.png" group-title="Portugal",PT: RTP 1
 http://hx6802.njxtsrntp.top:8080/6101767366488/a0feee4d0a2a/25064
 #EXTINF:-1 tvg-id="" tvg-name="PT: RTP 2" tvg-logo="https://docdog.top/logo/countries/portugal/rtp2.png" group-title="Portugal",PT: RTP 2
@@ -15,6 +16,7 @@ http://hx6802.njxtsrntp.top:8080/6101767366488/a0feee4d0a2a/25063
 http://hx6802.njxtsrntp.top:8080/6101767366488/a0feee4d0a2a/25004
 #EXTINF:-1 tvg-id="" tvg-name="PT: ARTV" tvg-logo="https://docdog.top/logo/countries/portugal/artv.png" group-title="Portugal",PT: ARTV
 http://hx6802.njxtsrntp.top:8080/6101767366488/a0feee4d0a2a/24990
+
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv1.png" group-title="Portugal",PT: SPORT TV 1
 http://hx6802.njxtsrntp.top:8080/6101767366488/a0feee4d0a2a/24984
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="https://docdog.top/logo/countries/portugal/sporttv2.png" group-title="Portugal",PT: SPORT TV 2
@@ -31,8 +33,6 @@ http://hx6802.njxtsrntp.top:8080/6101767366488/a0feee4d0a2a/29669
 http://hx6802.njxtsrntp.top:8080/6101767366488/a0feee4d0a2a/58331
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV +" tvg-logo="https://docdog.top/logo/countries/portugal/sport-tv-mais-pt.png" group-title="Portugal",PT: SPORT TV +
 http://hx6802.njxtsrntp.top:8080/6101767366488/a0feee4d0a2a/29668
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA" tvg-logo="https://docdog.top/logo/countries/portugal/sporttvnba.png" group-title="Portugal",PT: SPORT TV NBA
-http://hx6802.njxtsrntp.top:8080/6101767366488/a0feee4d0a2a/24981
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 1" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport1.png" group-title="Portugal",PT: ELEVEN SPORT 1
 http://hx6802.njxtsrntp.top:8080/6101767366488/a0feee4d0a2a/25024
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 2" tvg-logo="https://docdog.top/logo/countries/portugal/elevensport2.png" group-title="Portugal",PT: ELEVEN SPORT 2
@@ -45,12 +45,7 @@ http://hx6802.njxtsrntp.top:8080/6101767366488/a0feee4d0a2a/25027
 http://hx6802.njxtsrntp.top:8080/6101767366488/a0feee4d0a2a/25028
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORT 6" tvg-logo="https://docdog.top/logo/countries/portugal/elevensports6vip.png" group-title="Portugal",PT: ELEVEN SPORT 6
 http://hx6802.njxtsrntp.top:8080/6101767366488/a0feee4d0a2a/24983
-#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/portugal/eurosport-1.png" group-title="Portugal",PT: EUROSPORT 1
-http://hx6802.njxtsrntp.top:8080/6101767366488/a0feee4d0a2a/57263
-#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 2" tvg-logo="https://docdog.top/logo/countries/portugal/eurosport-2.png" group-title="Portugal",PT: EUROSPORT 2
-http://hx6802.njxtsrntp.top:8080/6101767366488/a0feee4d0a2a/57264
-#EXTINF:-1 tvg-id="" tvg-name="PT: A BOLA TV" tvg-logo="https://docdog.top/logo/countries/portugal/abolatv.png" group-title="Portugal",PT: A BOLA TV
-http://hx6802.njxtsrntp.top:8080/6101767366488/a0feee4d0a2a/24987
+
 #EXTINF:-1 tvg-id="" tvg-name="PT: AXN" tvg-logo="https://docdog.top/logo/countries/portugal/axn.png" group-title="Portugal",PT: AXN
 http://hx6802.njxtsrntp.top:8080/6101767366488/a0feee4d0a2a/24991
 #EXTINF:-1 tvg-id="" tvg-name="PT: AXN MOVIES" tvg-logo="https://docdog.top/logo/countries/portugal/axnmovies.png" group-title="Portugal",PT: AXN MOVIES
@@ -59,15 +54,22 @@ http://hx6802.njxtsrntp.top:8080/6101767366488/a0feee4d0a2a/24993
 http://hx6802.njxtsrntp.top:8080/6101767366488/a0feee4d0a2a/25041
 #EXTINF:-1 tvg-id="" tvg-name="PT: SERIES TV" tvg-logo="https://docdog.top/logo/countries/portugal/series.png" group-title="Portugal",PT: SERIES TV
 http://hx6802.njxtsrntp.top:8080/6101767366488/a0feee4d0a2a/25072
+
 #EXTINF:-1 tvg-id="" tvg-name="PT: SIC NOTICIAS" tvg-logo="https://docdog.top/logo/countries/portugal/sicnoticias.png" group-title="Portugal",PT: SIC NOTICIAS
 http://hx6802.njxtsrntp.top:8080/6101767366488/a0feee4d0a2a/25078
 #EXTINF:-1 tvg-id="" tvg-name="PT: CNN" tvg-logo="https://docdog.top/logo/countries/portugal/cnn.png" group-title="Portugal",PT: CNN
 http://hx6802.njxtsrntp.top:8080/6101767366488/a0feee4d0a2a/57262
+
 #EXTINF:-1 tvg-id="" tvg-name="PT: CARTOON NETWORK" tvg-logo="https://docdog.top/logo/countries/portugal/cartoonnetwork.png" group-title="Portugal",PT: CARTOON NETWORK
 http://hx6802.njxtsrntp.top:8080/6101767366488/a0feee4d0a2a/24985
 #EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY CHANNEL" tvg-logo="https://docdog.top/logo/countries/portugal/disneychannel.png" group-title="Portugal",PT: DISNEY CHANNEL
 http://hx6802.njxtsrntp.top:8080/6101767366488/a0feee4d0a2a/25021
+
 #EXTINF:-1 tvg-id="" tvg-name="PT: RTP ACORESS" tvg-logo="https://docdog.top/logo/countries/portugal/rtpacores.png" group-title="Portugal",PT: RTP ACORESS
 http://hx6802.njxtsrntp.top:8080/6101767366488/a0feee4d0a2a/25067
 #EXTINF:-1 tvg-id="" tvg-name="PT: RTP MADEIRA" tvg-logo="https://docdog.top/logo/countries/portugal/rtpmadeira.png" group-title="Portugal",PT: RTP MADEIRA
 http://hx6802.njxtsrntp.top:8080/6101767366488/a0feee4d0a2a/25069
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP MEMORIA" tvg-logo="https://docdog.top/logo/countries/portugal/rtpmemoria.png" group-title="Portugal",PT: RTP MEMORIA
+http://hx6802.njxtsrntp.top:8080/6101767366488/a0feee4d0a2a/25070
+#EXTINF:-1 tvg-id="" tvg-name="PT: PORTO CANAL" tvg-logo="https://docdog.top/logo/countries/portugal/portocanal.png" group-title="Portugal",PT: PORTO CANAL
+http://hx6802.njxtsrntp.top:8080/6101767366488/a0feee4d0a2a/25062
